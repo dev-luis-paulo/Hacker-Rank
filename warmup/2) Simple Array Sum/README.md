@@ -1,6 +1,9 @@
 # Resolução
-É criado uma variável soma, inicializando ela com 0
+1) É criado uma variável soma, inicializando ela com 0
 
-O array é percorrido e então os valores são somados e inseridos da variável soma
+2) O array é percorrido e então os valores são somados e inseridos na variável soma
 
-Por fim, é retornado a variável soma
+3) Por fim, é retornado a variável soma
+
+# Observação
+O código da resolução está no arquivo .playground e Contents.swift
