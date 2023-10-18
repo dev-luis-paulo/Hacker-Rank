@@ -7,9 +7,9 @@ Entre no link do problema a ser resolvido, selecione a linguagem 'Swift', substi
 ## Warmup
 | Título                                                                                       | Solução       |
 | -------------                                                                                | ------------- |
-| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)               | [Swift](https://github.com/dev-luis-paulo/Hacker-Rank/tree/main/warmup/1)%20Solve%20me) |
-| [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)           | [Swift](https://github.com/dev-luis-paulo/Hacker-Rank/tree/main/warmup/2)%20Simple%20Array%20Sum) |
-| [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)   | [Swift](https://github.com/dev-luis-paulo/Hacker-Rank/tree/main/warmup/3)%20Compare%20triplets) |
+| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)               | [Swift](https://github.com/dev-luis-paulo/Hacker-Rank/tree/main/warmup/1\)%20Solve%20me) |
+| [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)           | [Swift](https://github.com/dev-luis-paulo/Hacker-Rank/tree/main/warmup/2\)%20Simple%20Array%20Sum) |
+| [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)   | [Swift](https://github.com/dev-luis-paulo/Hacker-Rank/tree/main/warmup/3\)%20Compare%20triplets) |
 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)               | [Swift] |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)     | [Swift] |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)                       | [Swift] |
