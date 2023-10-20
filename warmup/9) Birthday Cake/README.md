@@ -1,5 +1,5 @@
 # Resolução
-1) São criadas 2 variáveis e 1 constante:
+1) São criadas 2 variáveis:
 - quantidade -> contém a quantidade de velas
 - valorMaisAlto -> verifica qual o maior valor dentro do array candles
 
